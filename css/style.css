@@ -35,31 +35,40 @@ h4{
   margin: 0 auto;
 }
 .box1{
-  display: inline-block;
   text-align: center;
   color: #484848;
   background: white;
   font-weight: bold;
+  font-size: 16px;
   border: 2px solid #c4c4c4;
   padding: 9px 90px;
   margin-top: 25px;
   margin-bottom: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
 }
 .newyork{
   background-image: url("../img/new-york.jpg");
+  background-size: cover;
 }
 .sf1{
   background-image: url("../img/san-francisco.jpg");
+  background-size: cover;
 }
 .sf2{
   background-image: url("../img/san-francisco-2.jpg");
+  background-size: cover;
 }
 .london{
   background-image: url("../img/london.jpg");
+  background-size: cover;
 }
 .sonoma{
   background-image: url("../img/sonoma.jpg");
+  background-size: cover;
 }
 .napa{
   background-image: url("../img/napa.jpg");
+  background-size: cover;
 }
